@@ -1,0 +1,18 @@
+mkdir crud-app
+cd crud-app
+npm init -y
+
+npm install express pg body-parser cors
+code .
+
+Step 3: Create a simple Express server (index.js)
+
+npx create-react-app frontend
+cd frontend
+npm install axios bootstrap
+
+Step 2: Set up the React components
+src/App.js
+
+
+
